@@ -19,7 +19,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/jsonsorter.git
+git clone https://github.com/fabriziomartini/jsonsorter.git
 
 # Navigate to the project directory
 cd jsonsorter
